@@ -13,7 +13,7 @@ Key components include:
 🌬️This repository contains the code accompanying the paper:
 
 **AIRSPAN-X: Federated XGBoost with Sequential Anomaly Detection for Explainable Urban Air Quality Prediction**
-DOI: `10.1109/ICCKE68588.2025.11273819` ([https://doi.org/10.1109/ICCKE68588.2025.11273819](https://doi.org/10.1109/ICCKE68588.2025.11273819))
+DOI: ([https://doi.org/10.1109/ICCKE68588.2025.11273819](https://doi.org/10.1109/ICCKE68588.2025.11273819))
 
 If you use this code in your research and find it helpful, please cite:
 
@@ -28,6 +28,3 @@ A publicly accessible version of the full paper and the presentation file are al
 The dataset used in this study, titled *“Anomaly-Aware Air Quality Monitoring with SHAP and PrefixSpan in Federated IoT Networks”*, is publicly available on Kaggle:
 🔗 [https://www.kaggle.com/datasets/saghar001/air-quality-prediction-case-study](https://www.kaggle.com/datasets/saghar001/air-quality-prediction-case-study)
 
-🔧 **Code Repository**
-The complete codebase is available on GitHub:
-🔗 [https://github.com/SagharShafaati/AdaptiveFL-XGB-QuantumXAI](https://github.com/SagharShafaati/AdaptiveFL-XGB-QuantumXAI)
