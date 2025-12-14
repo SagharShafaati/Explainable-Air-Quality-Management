@@ -16,3 +16,16 @@ The dataset used in this study, titled *“Anomaly-Aware Air Quality Monitoring 
 🔧 **Code Repository**
 The complete codebase is available on GitHub:
 🔗 [https://github.com/SagharShafaati/AdaptiveFL-XGB-QuantumXAI](https://github.com/SagharShafaati/AdaptiveFL-XGB-QuantumXAI)
+
+This repository contains the code accompanying the paper:
+
+**AIRSPAN-X: Federated XGBoost with Sequential Anomaly Detection for Explainable Urban Air Quality Prediction**
+DOI: `10.1109/ICCKE68588.2025.11273819` ([https://doi.org/10.1109/ICCKE68588.2025.11273819](https://doi.org/10.1109/ICCKE68588.2025.11273819))
+
+If you use this code in your research and find it helpful, please cite:
+
+> S. Shafaati and S. H. Erfani, "AIRSPAN-X: Federated XGBoost with Sequential Anomaly Detection for Explainable Urban Air Quality Prediction," 2025 15th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, Iran, Islamic Republic of, 2025, pp. 1-6, doi: 10.1109/ICCKE68588.2025.11273819.
+
+**Keywords:** Data privacy; Pollution; Accuracy; Federated learning; Atmospheric modeling; Urban areas; Air quality; Data models; Internet of Things; Anomaly detection; Air Quality Prediction; Federated Learning; XGBoost; SHAP Explainability; PrefixSpan; Internet of Things (IoT).
+
+A publicly accessible version of the full paper and the presentation file are also available on my ResearchGate profile.
