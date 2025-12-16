@@ -27,4 +27,4 @@ A publicly accessible version of the full paper and the presentation file are al
 📊 **Dataset Access**
 The dataset used in this study, titled *“Anomaly-Aware Air Quality Monitoring with SHAP and PrefixSpan in Federated IoT Networks”*, is publicly available on Kaggle:
 🔗 [https://www.kaggle.com/datasets/saghar001/air-quality-prediction-case-study](https://www.kaggle.com/datasets/saghar001/air-quality-prediction-case-study)
-
+🔗 Saghar Shafaati. (2025). Air quality Prediction: Case Study [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/10564886 
